@@ -1,4 +1,4 @@
-## "Event-Management-System" MERN Stack E-commerce Web App
+## "Event-Management-System" MERN Stack Web App
 
 
 
